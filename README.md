@@ -16,8 +16,9 @@
 ! Designing Data-Intensive Applications, 2nd ed — Martin Kleppmann
 ! Software Architecture: The Hard Parts — Ford, Richards, Sadalage, Dehghani
 
-+ Building in public: a legacy-PHP strangler migration, a freight platform for South African conditions,
-+ and an engineering-governance toolkit for the AI era. Pinned below as they land.
-
 - The tools keep changing. The fundamentals don't.
 ```
+<!-- Restore inside the diff block once the first project is public:
++ Building in public: a legacy-PHP strangler migration, a freight platform for South African conditions,
++ and an engineering-governance toolkit for the AI era. Pinned below as they land.
+-->
